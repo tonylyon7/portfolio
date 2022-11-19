@@ -29,14 +29,14 @@ header {
 
 .me {
     background: linear-gradient(var(--color-primary), transparent);
-    width: 22rem;
+    width: 30rem;
     height: 30rem;
     position: absolute;
-    left: calc(50% - 11rem);
+    left: calc(50% - 15rem);
     margin-top: 4rem;
-    border-radius: 12rem 12rem 0 0;
+    border-radius: 10rem 10rem 0 0;
     overflow: hidden;
-    padding: 5rem 1.5rem 1.5rem 1.5rem;
+    padding: 5rem 1.5rem 1.5rem rem;
 }
 
 .scroll__down {
