@@ -12,11 +12,11 @@ const About = () => {
       <h2>About ME</h2>
 
       <div className='container about-container'>
-        <div className='about-me'>
-          <div className='image'>
-            <img src={ME} alt='about img'/>
-          </div>
+        
+        <div className='image'>
+          <img src={ME} alt='about img'/>
         </div>
+        
 
         <div className='about-content'>
           <div className='about-cards'>

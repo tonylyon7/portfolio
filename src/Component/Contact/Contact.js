@@ -26,19 +26,19 @@ const Contact = () => {
             <HiOutlineMail className='icon'/>
             <h4>Email</h4>
             <h5>Tonylyon0007@gmail.com</h5>
-            <a href='mailto:Tonylyon0007@gmail.com' target='_blank'>Send a Message</a>
+            <a href='mailto:Tonylyon0007@gmail.com' target='_blank' rel='noreferrer'>Send a Message</a>
           </article>
           <article className='contact-option' >
             <BsWhatsapp className='icon'/>
             <h4>WhatsApp</h4>
             <h5>+2348101070424</h5>
-            <a href='https://wa.me/+2348101070424' target='_blank'>Send a Message</a>
+            <a href='https://wa.me/+2348101070424' target='_blank' rel='noreferrer'>Send a Message</a>
          </article>
           <article className='contact-option' >
             <BsTwitter className='icon'/>
             <h4>Twitter</h4>
             <h5>Tonylyon7</h5>
-            <a href='https://twitter.com/Tonylyon7' target='_blank'>Send a Message</a>
+            <a href='https://twitter.com/Tonylyon7' target='_blank' rel='noreferrer'>Send a Message</a>
          </article>
         </div>
         <form ref={form} onSubmit={sendEmail}>

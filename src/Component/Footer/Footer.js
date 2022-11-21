@@ -23,7 +23,7 @@ const Footer = () => {
       </div>
 
       <div className='footer-copywrite'>
-        <small>&copy; Tony Lyon. All right reserved</small>
+        <marquee><small>&copy; Tony Lyon. All right reserved</small></marquee>
       </div>
     </footer>
   )

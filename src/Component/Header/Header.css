@@ -28,10 +28,12 @@ header {
 }
 
 .me {
-    background-color: linear-gradient(var(--color-primary), transparent);
     width: 30rem;
+    height: 40rem;
+    border: 5px;
+    border-color: aqua;
     position: absolute;
-    left: calc(50% - 11.5rem);
+    left: calc(50% - 13rem);
     margin-top: 5rem;
     /* border-radius: 10rem; */
     /* overflow: hidden; */
@@ -54,20 +56,17 @@ header {
     .me {
         width: 20rem;
         height: 30rem;
-        margin-top: 15rem;
+        margin-top: 7rem;
     }
 }
 
 @media screen and (max-width: 600px) {
-    /* .header {
-        height: 100vh;
-    } */
     .header__social,
     .scroll__down {
         display: none;
     }
     .me{
         height: 30rem;
-        margin-top: 4rem;
+        margin-top: 1rem;
     }
 }
