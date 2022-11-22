@@ -17,34 +17,47 @@ const Services = () => {
           <ul className='service-list'>
             <li>
               <BiCheck className='service-list-icon'/>
-              <p>Bla Bla Bla Bla Bla</p>
+              <p>Prototyping, wireframing, userflow, mockups</p>
             </li>
           </ul>
           <ul className='service-list'>
             <li>
               <BiCheck className='service-list-icon'/>
-              <p>Bla Bla Bla Bla Bla</p>
+              <p>Visual design and design software</p>
             </li>
           </ul>
           <ul className='service-list'>
             <li>
               <BiCheck className='service-list-icon'/>
-              <p>Bla Bla Bla Bla Bla</p>
+              <p>User research and usability testing</p>
             </li>
           </ul>
           <ul className='service-list'>
             <li>
               <BiCheck className='service-list-icon'/>
-              <p>Bla Bla Bla Bla Bla</p>
+              <p>Agile</p>
             </li>
           </ul>
           <ul className='service-list'>
             <li>
               <BiCheck className='service-list-icon'/>
-              <p>Bla Bla Bla Bla Bla</p>
+              <p>Information Architecture</p>
+            </li>
+          </ul>
+          <ul className='service-list'>
+            <li>
+              <BiCheck className='service-list-icon'/>
+              <p>Application Development</p>
+            </li>
+          </ul>
+          <ul className='service-list'>
+            <li>
+              <BiCheck className='service-list-icon'/>
+              <p>communication and Presentation</p>
             </li>
           </ul>
         </article>
+        
         <article className='service'>
           <div className='service-head'>
             <h3>Web development</h3>
@@ -53,31 +66,43 @@ const Services = () => {
           <ul className='service-list'>
             <li>
               <BiCheck className='service-list-icon'/>
-              <p>Bla Bla Bla Bla Bla</p>
+              <p>Testing and Debugging</p>
             </li>
           </ul>
           <ul className='service-list'>
             <li>
               <BiCheck className='service-list-icon'/>
-              <p>Bla Bla Bla Bla Bla</p>
+              <p>Responsive Web designing Skills</p>
             </li>
           </ul>
           <ul className='service-list'>
             <li>
               <BiCheck className='service-list-icon'/>
-              <p>Bla Bla Bla Bla Bla</p>
+              <p>Create real Web Apllications</p>
             </li>
           </ul>
           <ul className='service-list'>
             <li>
               <BiCheck className='service-list-icon'/>
-              <p>Bla Bla Bla Bla Bla</p>
+              <p>Create Apllications that run inside web browser</p>
             </li>
           </ul>
           <ul className='service-list'>
             <li>
               <BiCheck className='service-list-icon'/>
-              <p>Bla Bla Bla Bla Bla</p>
+              <p>Create and interact with database using MongoDB</p>
+            </li>
+          </ul>
+          <ul className='service-list'>
+            <li>
+              <BiCheck className='service-list-icon'/>
+              <p>Create a real ChatApp with nodeJs ExpressJs and MongoDB</p>
+            </li>
+          </ul>
+          <ul className='service-list'>
+            <li>
+              <BiCheck className='service-list-icon'/>
+              <p>Deploy Applications Using Heroku</p>
             </li>
           </ul>
         </article>
